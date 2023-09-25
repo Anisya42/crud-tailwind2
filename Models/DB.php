@@ -4,7 +4,7 @@ class DB{
     private static $hostname = "localhost";
     private static $username = "root";
     private static $password = "";
-    private static $database = "class_rankings";
+    private static $database = "class_rank";
 
     public static $db;
 
